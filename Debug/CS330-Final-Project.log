@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(86,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(293,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1582,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1628,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1629,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1633,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1635,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1637,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\itali\source\repos\CS330-Final-Project\Source.cpp(1638,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CS330-Final-Project.vcxproj -> C:\Users\itali\source\repos\CS330-Final-Project\Debug\CS330-Final-Project.exe
